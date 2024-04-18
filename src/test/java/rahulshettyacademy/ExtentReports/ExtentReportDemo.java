@@ -42,7 +42,7 @@ public class ExtentReportDemo {
 		driver.close();
 		test.fail("Result do not match");
 		
-		
+		System.out.println("Se ejecuto el programa");
 		
 	}
 
