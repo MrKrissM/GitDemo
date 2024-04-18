@@ -17,4 +17,9 @@ public class AppTest {
 		System.out.println( "Hola mundo 2" );
 	}
 
+	@Test
+	public void testNumberThree() {
+		
+		System.out.println( "Hola mundo 3" );
+	}
 }
