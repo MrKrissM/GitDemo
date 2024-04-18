@@ -22,4 +22,10 @@ public class AppTest {
 		
 		System.out.println( "Hola mundo 3" );
 	}
+	
+	@Test
+	public void testNumberFour() {
+		
+		System.out.println( "Hola mundo 4" );
+	}
 }
